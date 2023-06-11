@@ -1,4 +1,5 @@
 /build
+/bin
 
 # Do not add ExternalData module staging files
 .ExternalData*
